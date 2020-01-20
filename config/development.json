@@ -1,0 +1,7 @@
+{
+    "app": "warehouse",
+    "whiteList": [
+        "http://localhost:4200"
+    ],
+    "apiKey": "AIzaSyDMSlyZYiS_X3XbjulmjfF1WHg6BLLr3gU"
+}
